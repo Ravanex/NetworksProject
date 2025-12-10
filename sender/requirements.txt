@@ -1,0 +1,17 @@
+# Sender/Streamer Requirements
+# Screen Streaming Application - Sender Side
+
+# Screen capture library (cross-platform)
+mss>=9.0.0
+
+# Image processing and encoding
+opencv-python>=4.8.0
+
+# Array operations
+numpy>=1.24.0
+
+# GUI (usually included with Python)
+# tkinter - comes with Python standard library
+
+# Optional: Pillow for fallback screen capture
+Pillow>=10.0.0

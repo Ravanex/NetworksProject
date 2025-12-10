@@ -1,0 +1,14 @@
+# Receiver/Viewer Requirements
+# Screen Streaming Application - Receiver Side
+
+# Image processing and decoding
+opencv-python>=4.8.0
+
+# Array operations
+numpy>=1.24.0
+
+# Image display in Tkinter
+Pillow>=10.0.0
+
+# GUI (usually included with Python)
+# tkinter - comes with Python standard library
